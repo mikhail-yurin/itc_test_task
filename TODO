@@ -1,0 +1,14 @@
+
+Todo:
+  ✔ analyze the task @started(20-07-16 20:02) @done(20-07-16 20:19) @lasted(17m50s)
+  ✔ prepare environment such as installing libs and configuring webpack @started(20-07-16 20:20) @done(20-07-16 21:15) @lasted(55m36s)
+  ✔ order list component @started(20-07-16 21:38) @done(20-07-16 22:20) @lasted(42m44s)
+  ✔ orders store @started(20-07-18 11:38) @done(20-07-18 13:35) @lasted(1h57m53s)
+  ✔ component order @started(20-07-18 13:36) @done(20-07-18 14:18) @lasted(42m54s)
+  ✔ component order @started(20-07-19 13:10) @done(20-07-19 14:54) @lasted(1h44m37s)
+  ✔ ordersizes store @started(20-07-19 14:55) @done(20-07-19 16:57) @lasted(2h02m15s)
+  ✔ menu component @started(20-07-19 17:17) @done(20-07-19 18:04) @lasted(47m19s)
+  ✔ router @started(20-07-20 21:03) @done(20-07-20 22:03) @lasted(1h51s)
+  ✔ sizes component @started(20-07-20 22:04) @done(20-07-21 23:40) @lasted(1h36m2s)
+  ✔ user application @started(20-07-21 00:29) @done(20-07-21 02:19) @lasted(2h32s)
+  ✔ testing and small improvements @started(20-07-21 20:29) @done(20-07-21 21:30) @lasted(1h1m41s)

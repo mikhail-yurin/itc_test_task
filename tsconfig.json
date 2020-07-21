@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "sourceMap": true
+  },
+  "exclude": ["node_modules", "dist"]
+}
