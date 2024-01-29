@@ -1,6 +1,9 @@
 # ITC Solutions test task
 
-### In first terminal window:
+### Implemented
+07.2020
+
+### In the first terminal window:
 
 ```
 cd <ui-tshirt-dev-server-master project path>
@@ -8,7 +11,7 @@ npm i
 npm start
 ```
 
-### In second terminal window:
+### In a second terminal window:
 
 ```
 cd <current project path>
